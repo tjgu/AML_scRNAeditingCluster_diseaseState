@@ -1,0 +1,22 @@
+Package: betabinomialRepeated
+Type: Package
+Title: Beta-Binomial Regression with Repeated Measures and Binomial Fallback
+Version: 0.1.0
+Authors@R: person("Tongjun", "Gu", email = "tgu@versiti.org", role = c("aut", "cre"))
+Description: Fits site-wise beta-binomial generalized linear mixed models for
+    binomial count data with optional subject-level repeated-measure random
+    intercepts and automatic binomial fallback. Provides coefficient-scale and
+    response-scale delta-method contrasts and comparison tables.
+License: GPL-3 + file LICENSE
+Depends:
+    R (>= 4.1.0)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    glmmTMB,
+    dplyr,
+    tibble,
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

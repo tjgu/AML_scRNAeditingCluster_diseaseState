@@ -1,0 +1,8 @@
+# To cite this package, use:
+bibentry(
+  bibtype = "Manual",
+  title = "betabinomialRepeated: Beta-Binomial Regression with Repeated Measures and Binomial Fallback",
+  author = person("Tongjun", "Gu"),
+  year = "2026",
+  note = "R package version 0.1.0"
+)
