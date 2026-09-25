@@ -1,0 +1,1 @@
+This directory contains the input data for running the script of de_bulkEditing_betaBinomial_binomial_repeatedMeasure.R, which generates the inputs for the script of association_editingGene_betaBinomial_nestModel.R
